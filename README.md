@@ -1,0 +1,1 @@
+# OperadorL-gico-FPOO
